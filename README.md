@@ -96,7 +96,6 @@ Interactive Filters to drill down into data
 (Add screenshots in the /images folder for better visual impact.)
 
 ⭐ Key Insights (Sample Highlights)
-(Replace with real numbers from your notebook/dashboard)
 
 Q4 accounts for ~35–40% of annual revenue
 
